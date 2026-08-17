@@ -12,6 +12,10 @@ Cinematic photoreal eastern fantasy (not documentary), IMAX film grain, vertical
 
 `--ar 2:3 --no text, gears, metal compass, electronic compass UI, evenly spaced symbol ring, front-facing circle, limbless serpent dragon, western wyvern, bat wings, human hand, bird foot, claw floating detached from ring, claw lunging at camera, glass dragon, plastic, yellow gold, cartoon, symmetrical poster composition, dragon facing camera, evenly lit, fully glowing dragon, dragon fully in frame, centered horizon`
 
+## 负向提示词
+
+实体玉盘、金属罗盘、电子罗盘、UI界面、卦象等距排列一圈、石质法阵、机械齿轮、正圆正对镜头、文字、符文乱码、无肢蛇形龙、西方翼龙、蝙蝠翼、蜥蜴前臂、玻璃龙、塑料质感、黄金色法阵、卡通、正面对称构图、龙正脸对镜头、画面均匀发亮、龙全身发光、过度饱和、龙完整入框、宫殿过大、地平线居中、前爪伸向镜头、前爪遮脸、前爪遮太极、人手、鹰爪脚
+
 ## 使用提示
 
 1. **卦象预期管理**：出图后卦爻大概率是"像卦的风格化符文"，这是当前模型天花板。径向消隐已取消外圈精确性要求；内圈若需精确卦序，出图后叠加矢量素材。
