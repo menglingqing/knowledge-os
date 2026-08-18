@@ -1,3 +1,9 @@
+---
+status: validated
+evidence:
+  - ../cases/64-hexagram-gate/
+---
+
 # 7 层架构拆解法
 
 把一个生图需求从"元素清单"拆解为"关系网络"的七层框架。源自 64卦能量天门案例的六轮迭代。

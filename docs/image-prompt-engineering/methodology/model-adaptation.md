@@ -1,3 +1,9 @@
+---
+status: validated
+evidence:
+  - ../cases/64-hexagram-gate/
+---
+
 # 模型适配
 
 同一创意在不同模型上需要不同形态的提示词。
