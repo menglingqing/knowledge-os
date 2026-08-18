@@ -6,9 +6,13 @@
 
 ## 方法论
 
-- [7 层架构拆解法](methodology/seven-layer-architecture.md)——从"元素清单"到"关系网络"的结构化拆解
+- [7 层架构拆解法](methodology/seven-layer-architecture.md)——从“元素清单”到“关系网络”的结构化拆解
 - [迭代手册：诊断、验收与预算](methodology/iteration-playbook.md)——只改一个变量的诊断法、验收分级、文字预算审计
 - [模型适配](methodology/model-adaptation.md)——中文模型 vs MJ/SDXL、否定词归位、画幅、权重语法
+
+## 实验
+
+- [幻墨造像：视觉导演方法提纯 v1.1](experiments/huanmo-visual-direction-v1.1.md)——导演表与执行卡、镜头闭合、视觉主次与可见叙事证据
 
 ## 治理
 
@@ -20,4 +24,4 @@
 
 - [64卦能量天门](cases/64-hexagram-gate/)——六轮迭代完整版本链（v1→v6），本领域种子案例
 
-版本：v1.2 · 2026-08-18
+版本：v1.3 · 2026-08-18
