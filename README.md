@@ -1,3 +1,14 @@
+# Knowledge OS
+
+## 知识模块
+
+- [AIGC 审美认知](docs/aigc-aesthetics/README.md)——自然美感、世界主导、概念减法与尺度关系；从图片品鉴沉淀可引用的创作认知。
+- [生图提示词工程](docs/image-prompt-engineering/README.md)——将选定的创作意图转为视觉生成执行，包含七层架构、迭代方法与案例。
+- [PPT 视觉设计](docs/ppt-design/README.md)——商业演示的视觉系统与案例。
+- [其他知识文档](docs/)——业务、产品与认知模型等主题。
+
+## 应用开发
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
