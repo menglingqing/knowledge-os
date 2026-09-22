@@ -17,11 +17,15 @@
 
 ## 创作方法
 
+- [视觉品鉴：从“好看”到可迁移判断](methods/visual-critique-framework.md)——从单一大势、识别锚点、关系、媒介与尺度层级提炼可复用判断。
+- [IP 视觉转译](methods/ip-visual-translation.md)——Character DNA、人格恒量、跨物种/跨媒介转译与身份保持。
+- [海报视觉系统](methods/poster-system-design.md)——系列视觉 DNA、尺度层级、视觉重量、跨风格分工与可替换模板。
 - [概念、克制与减法](methods/concept-and-subtraction.md)——概念熵、一个核心创意、元素少但关系强；包含删减判断与反例。
 - [如何转化为创作控制](methods/creative-control.md)——从一句命题到可见证据、可调变量和对照复盘；在执行时引用七层架构。
 
 ## 案例与认知历史
 
+- [2026-09-22：海报、人物与 IP 视觉系统连续品鉴](cases/2026-09-22-poster-ip-image-appreciation.md)——Soft Biomorphism、Brutalist Editorial、Punk Zine、Dreamcore、IP 锚点与系列系统的连续提炼。
 - [2026-09-20：从自然事件到巨大秩序](cases/2026-09-20-image-appreciation.md)——八张图片的观察、解释、可迁移认知与边界，保留来源和稳定案例编号。
 - [认知日志](ledger/learning-log.md)——记录审美认知的形成与修正，避免复述文件修改记录。
 
@@ -34,4 +38,4 @@
 5. 生成实验需补充任务、输入、输出、单变量变化与评判结果。满足现有治理的必要条件后，提出晋升建议，由人类裁决；不因助手赞同或重复转述而晋升。
 6. 稳定文件路径与显式锚点用于跨文档引用。概念定义保留在原则／方法页，案例只说明应用；移动时更新所有引用。日期由 Git 管理，认知变化另记日志，每条核心经验不超过 50 字。
 
-版本：v0.1 · 2026-09-20
+版本：v0.2 · 2026-09-22
