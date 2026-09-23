@@ -19,3 +19,12 @@
 - [风格混搭](../methods/poster-system-design.md#六跨风格融合给每个系统分配职能)：不是并列风格词，而是给每套系统分配职责。
 - [尺度关系](../methods/visual-critique-framework.md#三尺度判断macro--meso--micro)：视觉重量不等于面积；小主体也可成为主视觉。
 - [审核边界](../methods/visual-critique-framework.md#七常见误区)：不为形式硬凑对抗式审核，只查真实关键漏洞。
+
+
+## 2026-09-23 · v0.3
+
+- [属性入构图](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#attribute-to-composition)：角色属性优先转为空间、构图与运动，而非继续加身份符号。
+- [静动句法](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#static-to-motion)：系列可用“静态建立 / 动态释放”表达身份与能力。
+- [全局运动场](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#motion-field)：动态不是单个 pose，而是人物与环境共享同一力场。
+- [下一帧感](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#unstable-moment)：灵动来自不完全稳定，不来自标准优雅手势。
+- [神性来自光](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#light-not-decoration)：金色优先由光与空气建立，避免装饰承担全部神性。
