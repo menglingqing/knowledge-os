@@ -33,3 +33,10 @@
 
 - [概念统一](../cases/2026-09-25-gothic-cathedral-sacred-portrait.md#core-concept)：深化人物与场景时，先保住空间秩序与光的主次。
 - [失败边界](../cases/2026-09-25-gothic-cathedral-sacred-portrait.md#iteration-failures)：用户反馈可确认方向偏离，具体归因仍需迭代图对照。
+
+## 2026-09-25 · 建筑与场景的视觉组织
+
+- [三者分工](../methods/symmetry-perspective-color.md#combined-system)：对称控制秩序，透视控制方向，色彩控制注意力。
+- [稳定与推进](../methods/symmetry-perspective-color.md#perspective)：强引导线形成视觉漏斗，稳定秩序也能容纳空间冲击。
+- [冷暖聚焦](../methods/symmetry-perspective-color.md#color)：大面积冷色建立空间，小面积暖色建立视觉中心。
+- [组合效果](../methods/symmetry-perspective-color.md#combinations)：对称、透视强度与色彩简化共同调节静态、运动和纪念碑感。

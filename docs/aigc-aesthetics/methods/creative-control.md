@@ -26,6 +26,8 @@ evidence:
 
 按当前命题选择具体手段。例如，中轴对称有助于圣殿仪式感；不应机械套用其他案例中的“破对称”。同样，诗意花海可采用幻想发光规则，不能套用写实自然的所有限制。
 
+建筑与场景可进一步引用[对称、透视与色彩系统](symmetry-perspective-color.md)，将秩序轴、引导线与冷暖焦点组织成一致的视觉关系。
+
 提示词组织可继续引用[视觉导演方法](../../image-prompt-engineering/experiments/huanmo-visual-direction-v1.1.md)、[迭代手册](../../image-prompt-engineering/methodology/iteration-playbook.md)与[模型适配](../../image-prompt-engineering/methodology/model-adaptation.md)。不在这里复制会随工具变化的语法规则。
 
 ## 示例：一处暖意的创作简报
