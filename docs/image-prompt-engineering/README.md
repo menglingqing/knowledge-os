@@ -17,6 +17,8 @@
 
 ## 实验
 
+- [哥特教堂神圣感人像：七层执行版](experiments/gothic-cathedral-sacred-portrait.md)——概念统一、空间与光的主次、简洁提示词及单变量迭代；尚未生成验证。
+
 - [参考图选择性迁移](experiments/reference-image-selective-transfer.md)——Transfer + Lock、17 维度与五个控制域、三图验收及中文模板；实践归纳，待独立验证。
 
 - [从视觉系统到生成提示词：2026-09-22](experiments/2026-09-22-visual-system-to-prompt.md)——Concept 驱动、IP 锚点、跨风格职能分工、系列固定 DNA / 开放变量与执行检查。
@@ -32,4 +34,4 @@
 
 - [64卦能量天门](cases/64-hexagram-gate/)——六轮迭代完整版本链（v1→v6），本领域种子案例
 
-版本：v1.6 · 2026-09-25
+版本：v1.7 · 2026-09-25

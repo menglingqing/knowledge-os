@@ -28,3 +28,8 @@
 - [全局运动场](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#motion-field)：动态不是单个 pose，而是人物与环境共享同一力场。
 - [下一帧感](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#unstable-moment)：灵动来自不完全稳定，不来自标准优雅手势。
 - [神性来自光](../cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md#light-not-decoration)：金色优先由光与空气建立，避免装饰承担全部神性。
+
+## 2026-09-25 · 哥特教堂神圣感人像
+
+- [概念统一](../cases/2026-09-25-gothic-cathedral-sacred-portrait.md#core-concept)：深化人物与场景时，先保住空间秩序与光的主次。
+- [失败边界](../cases/2026-09-25-gothic-cathedral-sacred-portrait.md#iteration-failures)：用户反馈可确认方向偏离，具体归因仍需迭代图对照。

@@ -22,3 +22,7 @@
 参考图按特征迁移；明确保留项与作用范围，三图对照同时检查收益和副作用。
 
 - [实践归纳与验证边界](../experiments/reference-image-selective-transfer.md)
+
+## 2026-09-25 · v1.7
+
+- [神圣感人像](../experiments/gothic-cathedral-sacred-portrait.md)：锁定空间与主光关系，分轮调材质显著性、镜头距离和人物动作。
