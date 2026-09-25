@@ -17,6 +17,8 @@
 
 ## 实验
 
+- [参考图选择性迁移](experiments/reference-image-selective-transfer.md)——Transfer + Lock、17 维度与五个控制域、三图验收及中文模板；实践归纳，待独立验证。
+
 - [从视觉系统到生成提示词：2026-09-22](experiments/2026-09-22-visual-system-to-prompt.md)——Concept 驱动、IP 锚点、跨风格职能分工、系列固定 DNA / 开放变量与执行检查。
 - [幻墨造像：视觉导演方法提纯 v1.1](experiments/huanmo-visual-direction-v1.1.md)——导演表与执行卡、镜头闭合、视觉主次与可见叙事证据
 
@@ -30,4 +32,4 @@
 
 - [64卦能量天门](cases/64-hexagram-gate/)——六轮迭代完整版本链（v1→v6），本领域种子案例
 
-版本：v1.5 · 2026-09-22
+版本：v1.6 · 2026-09-25
