@@ -22,9 +22,11 @@
 - [海报视觉系统](methods/poster-system-design.md)——系列视觉 DNA、尺度层级、视觉重量、跨风格分工与可替换模板。
 - [概念、克制与减法](methods/concept-and-subtraction.md)——概念熵、一个核心创意、元素少但关系强；包含删减判断与反例。
 - [如何转化为创作控制](methods/creative-control.md)——从一句命题到可见证据、可调变量和对照复盘；在执行时引用七层架构。
+- [AI 视频真实感](methods/video-realism.md)——从摄影机存在、人物关系、光源因果，到行为不完美、时间结构与环境反馈。
 
 ## 案例与认知历史
 
+- [2026-09-25：AI 视频真实感——从手持、过肩与光影到时间因果](cases/2026-09-25-ai-video-realism.md)——记录“有人在拍、有人在交流、人物处于真实空间”三类证据，以及从单帧真实延伸到时间因果的推导。
 - [2026-09-23：从 Hermes 到敦煌飞天——把“角色属性”变成构图](cases/2026-09-23-hermes-to-dunhuang-attribute-composition.md)——从“静态建立 / 动态释放”到全局运动场、失重感与关系表达，记录一次已进行生成验证的迁移实验。
 - [2026-09-22：海报、人物与 IP 视觉系统连续品鉴](cases/2026-09-22-poster-ip-image-appreciation.md)——Soft Biomorphism、Brutalist Editorial、Punk Zine、Dreamcore、IP 锚点与系列系统的连续提炼。
 - [2026-09-20：从自然事件到巨大秩序](cases/2026-09-20-image-appreciation.md)——八张图片的观察、解释、可迁移认知与边界，保留来源和稳定案例编号。
