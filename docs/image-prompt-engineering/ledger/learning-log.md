@@ -26,3 +26,9 @@
 ## 2026-09-25 · v1.7
 
 - [神圣感人像](../experiments/gothic-cathedral-sacred-portrait.md)：锁定空间与主光关系，分轮调材质显著性、镜头距离和人物动作。
+
+## 2026-09-26 · v1.8
+
+空间建关系，视线推叙事，颜色赋意义，克制留余韵；以单变量对照检验环境人像技法。
+
+- [十条技法与 A/B 方案](../experiments/environmental-portrait-techniques.md)
