@@ -1,0 +1,819 @@
+{
+  "schema_version": 1,
+  "language": "zh-CN",
+  "source": "用户提供的上下册内容与本次对话整理；非厂商技术规格。",
+  "fonts": [
+    {
+      "id": 1,
+      "name": "Didot",
+      "category": "高反差衬线",
+      "use_cases": [
+        "时装",
+        "奢侈品",
+        "人物封面",
+        "极简杂志"
+      ],
+      "prompt": "Didot-inspired high-contrast fashion serif, ultra-thin hairlines, elegant vertical stress, sharp refined serifs, luxury editorial typography",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bodoni",
+      "category": "现代高反差衬线",
+      "use_cases": [
+        "时尚",
+        "香水",
+        "艺术展",
+        "奢侈品牌"
+      ],
+      "prompt": "Bodoni-inspired modern high-contrast serif, dramatic thick-and-thin strokes, razor-sharp unbracketed serifs, luxury fashion editorial typography",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "PP Editorial New",
+      "category": "编辑展示衬线",
+      "use_cases": [
+        "独立杂志",
+        "艺术书",
+        "生活方式封面"
+      ],
+      "prompt": "PP Editorial New-inspired narrow editorial serif, delicate thin hairlines, elongated letterforms, elegant high contrast, 1990s fashion magazine aesthetic",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tiempos",
+      "category": "编辑衬线",
+      "use_cases": [
+        "文化",
+        "人物专访",
+        "商业长文",
+        "报刊视觉"
+      ],
+      "prompt": "Tiempos-inspired sophisticated editorial serif, strong readable proportions, subtle classical curves, premium newspaper and magazine typography",
+      "notes": [],
+      "mood": "文学、经典、有书卷气",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "body_with_suitable_cut"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Canela",
+      "category": "柔和展示字体",
+      "use_cases": [
+        "生活方式",
+        "美妆",
+        "艺术封面"
+      ],
+      "prompt": "Canela-inspired soft display lettering, graceful flared strokes, elegant curves, refined contemporary luxury editorial typography",
+      "notes": [
+        "此处是创作方向描述，不将其严格归类为传统衬线字体。"
+      ],
+      "mood": "艺术、流动、有表现力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ogg",
+      "category": "书法式展示衬线",
+      "use_cases": [
+        "先锋时尚",
+        "艺术展",
+        "实验杂志"
+      ],
+      "prompt": "Ogg-inspired calligraphic display serif, dramatic elegant curves, expressive terminals, refined swashes, high-fashion editorial typography",
+      "notes": [],
+      "mood": "艺术、流动、有表现力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "GT Super",
+      "category": "表现型衬线",
+      "use_cases": [
+        "复古杂志",
+        "音乐",
+        "文化",
+        "人物故事"
+      ],
+      "prompt": "GT Super-inspired expressive editorial serif, dramatic curves, vintage newspaper influence, sophisticated display typography",
+      "notes": [],
+      "mood": "艺术、流动、有表现力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cormorant Garamond",
+      "category": "古典衬线",
+      "use_cases": [
+        "文学",
+        "诗歌",
+        "文化",
+        "艺术书"
+      ],
+      "prompt": "Cormorant Garamond-inspired elegant old-style serif, tall ascenders, delicate contrast, literary and poetic editorial typography",
+      "notes": [],
+      "mood": "文学、经典、有书卷气",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Instrument Serif",
+      "category": "现代展示衬线",
+      "use_cases": [
+        "设计",
+        "摄影",
+        "建筑",
+        "艺术海报"
+      ],
+      "prompt": "Instrument Serif-inspired contemporary display serif, distinctive curves, elegant sharp terminals, refined art-book typography",
+      "notes": [],
+      "mood": "艺术、流动、有表现力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Fraunces",
+      "category": "柔性衬线",
+      "use_cases": [
+        "咖啡",
+        "生活方式",
+        "复古品牌",
+        "音乐"
+      ],
+      "prompt": "Fraunces-inspired expressive soft serif, playful rounded curves, retro editorial character, sophisticated contemporary display typography",
+      "notes": [],
+      "mood": "温暖、圆润、有复古感",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Caslon",
+      "category": "老式衬线",
+      "use_cases": [
+        "文化",
+        "历史",
+        "书籍",
+        "严肃长文"
+      ],
+      "prompt": "Caslon-inspired classic old-style serif, warm humanist proportions, traditional book typography, understated editorial elegance",
+      "notes": [],
+      "mood": "文学、经典、有书卷气",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "body_with_suitable_cut"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Garamond",
+      "category": "人文老式衬线",
+      "use_cases": [
+        "书籍",
+        "文化",
+        "历史",
+        "知识型内容"
+      ],
+      "prompt": "Garamond-inspired humanist old-style serif, elegant classical proportions, soft organic strokes, timeless literary typography",
+      "notes": [],
+      "mood": "文学、经典、有书卷气",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "body_with_suitable_cut"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Playfair Display",
+      "category": "高反差展示衬线",
+      "use_cases": [
+        "时尚",
+        "情绪",
+        "人像",
+        "封面"
+      ],
+      "prompt": "Playfair Display-inspired high-contrast display serif, elegant transitional proportions, refined fashion editorial headline typography",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lyon Display",
+      "category": "展示衬线",
+      "use_cases": [
+        "人物专访",
+        "文化杂志",
+        "精品出版物"
+      ],
+      "prompt": "Lyon Display-inspired refined editorial serif, elegant contrast, sophisticated proportions, premium magazine display typography",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Abril Display",
+      "category": "展示衬线",
+      "use_cases": [
+        "大标题",
+        "文化海报",
+        "视觉封面"
+      ],
+      "prompt": "Abril Display-inspired dramatic display serif, strong thick-and-thin contrast, confident editorial headline, contemporary magazine typography",
+      "notes": [],
+      "mood": "时尚、精致、有张力",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Recoleta",
+      "category": "圆润衬线",
+      "use_cases": [
+        "生活方式",
+        "食品",
+        "音乐",
+        "品牌故事"
+      ],
+      "prompt": "Recoleta-inspired friendly retro serif, soft rounded forms, expressive curves, warm contemporary editorial personality",
+      "notes": [],
+      "mood": "温暖、圆润、有复古感",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Helvetica Neue",
+      "category": "新怪诞无衬线",
+      "use_cases": [
+        "极简海报",
+        "科技",
+        "品牌",
+        "信息设计"
+      ],
+      "prompt": "Helvetica Neue-inspired neo-grotesque sans serif, neutral Swiss typography, clean geometry, precise spacing, minimalist editorial design",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Neue Haas Grotesk",
+      "category": "新怪诞无衬线",
+      "use_cases": [
+        "设计杂志",
+        "品牌",
+        "建筑",
+        "艺术"
+      ],
+      "prompt": "Neue Haas Grotesk-inspired Swiss neo-grotesque, compact clean letterforms, restrained modernist typography, precise editorial layout",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Futura",
+      "category": "几何无衬线",
+      "use_cases": [
+        "现代主义",
+        "建筑",
+        "科技",
+        "电影海报"
+      ],
+      "prompt": "Futura-inspired geometric sans serif, perfect circular forms, clean Bauhaus modernism, wide uppercase spacing, architectural poster typography",
+      "notes": [],
+      "mood": "几何、现代、轮廓鲜明",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Avenir",
+      "category": "几何人文无衬线",
+      "use_cases": [
+        "生活方式",
+        "产品",
+        "品牌",
+        "科技"
+      ],
+      "prompt": "Avenir-inspired geometric humanist sans serif, clean rounded proportions, elegant contemporary typography, calm premium brand aesthetic",
+      "notes": [],
+      "mood": "几何、现代、轮廓鲜明",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Graphik",
+      "category": "中性无衬线",
+      "use_cases": [
+        "媒体",
+        "科技",
+        "品牌",
+        "现代杂志"
+      ],
+      "prompt": "Graphik-inspired minimalist grotesque sans serif, neutral contemporary forms, clean editorial rhythm, modern brand typography",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Circular",
+      "category": "几何无衬线",
+      "use_cases": [
+        "互联网品牌",
+        "生活方式",
+        "产品"
+      ],
+      "prompt": "Circular-inspired geometric sans serif, friendly circular shapes, clean modern proportions, contemporary lifestyle brand typography",
+      "notes": [],
+      "mood": "温暖、圆润、有复古感",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "GT America",
+      "category": "怪诞无衬线",
+      "use_cases": [
+        "商业",
+        "人物",
+        "文化",
+        "新闻型海报"
+      ],
+      "prompt": "GT America-inspired grotesque sans serif, strong editorial proportions, contemporary American graphic design, confident headline typography",
+      "notes": [],
+      "mood": "醒目、紧凑、有力量",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Founders Grotesk",
+      "category": "怪诞无衬线（此处采用窄体方向）",
+      "use_cases": [
+        "潮流",
+        "艺术",
+        "摄影",
+        "独立杂志"
+      ],
+      "prompt": "Founders Grotesk Condensed-inspired grotesque sans serif, compact narrow letterforms, distinctive proportions, strong character, contemporary independent editorial typography",
+      "notes": [
+        "窄体提示词描述选定样式，不代表整个字体家族都为窄体。"
+      ],
+      "mood": "醒目、紧凑、有力量",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Neue Montreal",
+      "category": "现代怪诞无衬线",
+      "use_cases": [
+        "设计工作室",
+        "建筑",
+        "艺术",
+        "品牌"
+      ],
+      "prompt": "Neue Montreal-inspired modern grotesque sans serif, clean utilitarian forms, refined contemporary editorial design, understated personality",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Suisse International",
+      "category": "瑞士怪诞无衬线",
+      "use_cases": [
+        "品牌系统",
+        "科技",
+        "商业",
+        "极简设计"
+      ],
+      "prompt": "Suisse International-inspired Swiss grotesque sans serif, restrained neutral geometry, precise spacing, modernist editorial typography",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Univers",
+      "category": "中性无衬线",
+      "use_cases": [
+        "信息设计",
+        "科技",
+        "建筑",
+        "企业视觉"
+      ],
+      "prompt": "Univers-inspired rational neo-grotesque sans serif, systematic proportions, neutral modernist typography, precise information design",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Akzidenz Grotesk",
+      "category": "经典怪诞无衬线",
+      "use_cases": [
+        "现代主义",
+        "艺术展",
+        "独立海报"
+      ],
+      "prompt": "Akzidenz Grotesk-inspired classic grotesque sans serif, raw functional proportions, early Swiss modernist character, restrained poster typography",
+      "notes": [],
+      "mood": "理性、克制、秩序清楚",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline",
+        "information"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "DIN Condensed",
+      "category": "工业无衬线",
+      "use_cases": [
+        "运动",
+        "汽车",
+        "户外",
+        "机能海报"
+      ],
+      "prompt": "DIN Condensed-inspired industrial condensed sans serif, narrow technical letterforms, utilitarian geometry, strong poster typography",
+      "notes": [],
+      "mood": "醒目、紧凑、有力量",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Bebas Neue",
+      "category": "窄体无衬线",
+      "use_cases": [
+        "电影",
+        "运动",
+        "活动",
+        "强标题封面"
+      ],
+      "prompt": "Bebas Neue-inspired tall condensed sans serif, bold uppercase lettering, narrow proportions, strong impactful poster typography",
+      "notes": [],
+      "mood": "醒目、紧凑、有力量",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Franklin Gothic Condensed",
+      "category": "窄怪诞无衬线",
+      "use_cases": [
+        "新闻",
+        "体育",
+        "复古美国",
+        "编辑标题"
+      ],
+      "prompt": "Franklin Gothic Condensed-inspired bold condensed grotesque, strong American editorial headline typography, compact confident letterforms",
+      "notes": [],
+      "mood": "醒目、紧凑、有力量",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "ITC Avant Garde Gothic",
+      "category": "几何无衬线",
+      "use_cases": [
+        "音乐",
+        "时尚",
+        "复古未来",
+        "实验排版"
+      ],
+      "prompt": "ITC Avant Garde Gothic-inspired geometric sans serif, dramatic circular forms, tight kerning, 1970s avant-garde typography",
+      "notes": [],
+      "mood": "几何、现代、轮廓鲜明",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "headline"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Biro Script / 圆珠笔手写方向",
+      "category": "真实手写",
+      "use_cases": [
+        "笔记",
+        "签名",
+        "生活方式",
+        "旅行"
+      ],
+      "prompt": "raw realistic ballpoint-pen handwriting, thin imperfect human strokes, slightly irregular baseline, natural spacing, casual editorial annotation, not formal calligraphy",
+      "notes": [
+        "此条作为圆珠笔手写风格描述使用，未绑定或核实具体字体产品。"
+      ],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "style_direction",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Sacramento",
+      "category": "单线手写",
+      "use_cases": [
+        "咖啡",
+        "旅行",
+        "音乐",
+        "女性生活方式"
+      ],
+      "prompt": "Sacramento-inspired minimal monoline handwritten script, relaxed vintage handwriting, thin continuous strokes, clean editorial elegance",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Caveat",
+      "category": "自然手写",
+      "use_cases": [
+        "批注",
+        "旅行",
+        "生活记录",
+        "创意海报"
+      ],
+      "prompt": "Caveat-inspired casual handwritten note, loose natural pen strokes, slightly messy human lettering, uneven baseline, authentic journal annotation",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Allura",
+      "category": "书法手写",
+      "use_cases": [
+        "时尚",
+        "珠宝",
+        "婚礼之外的精致点缀"
+      ],
+      "prompt": "Allura-inspired elegant handwritten calligraphy, thin flowing strokes, graceful connected letters, refined editorial accent, restrained swashes",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Permanent Marker",
+      "category": "马克笔手写",
+      "use_cases": [
+        "PUNK",
+        "运动",
+        "街头",
+        "音乐",
+        "冲击型标题"
+      ],
+      "prompt": "bold permanent-marker handwriting, thick irregular strokes, raw confident lettering, rough human edges, independent poster aesthetic",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Rock Salt",
+      "category": "手绘字",
+      "use_cases": [
+        "户外",
+        "滑板",
+        "音乐",
+        "手作",
+        "实验海报"
+      ],
+      "prompt": "rough hand-drawn lettering, dry marker texture, irregular handmade strokes, raw experimental editorial typography",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "SignPainter",
+      "category": "笔刷手写",
+      "use_cases": [
+        "复古广告",
+        "咖啡",
+        "汽车",
+        "音乐"
+      ],
+      "prompt": "professional hand-painted sign lettering, fluid brush strokes, confident thick-and-thin contrast, vintage American commercial typography",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Mrs Saint Delafield",
+      "category": "签名字体",
+      "use_cases": [
+        "时尚",
+        "人物",
+        "摄影",
+        "生活方式"
+      ],
+      "prompt": "elegant fashion-editor signature handwriting, long fluid strokes, thin spontaneous pen lines, subtle irregularity, effortless luxury, minimal handwritten accent",
+      "notes": [],
+      "mood": "手写、自由、有个人痕迹",
+      "reference_type": "font_name_reference",
+      "font_asset_included": false,
+      "license_status": "not_verified",
+      "suggested_roles": [
+        "accent"
+      ]
+    }
+  ]
+}

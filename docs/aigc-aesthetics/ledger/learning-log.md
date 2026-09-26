@@ -40,3 +40,8 @@
 - [稳定与推进](../methods/symmetry-perspective-color.md#perspective)：强引导线形成视觉漏斗，稳定秩序也能容纳空间冲击。
 - [冷暖聚焦](../methods/symmetry-perspective-color.md#color)：大面积冷色建立空间，小面积暖色建立视觉中心。
 - [组合效果](../methods/symmetry-perspective-color.md#combinations)：对称、透视强度与色彩简化共同调节静态、运动和纪念碑感。
+
+## 2026-09-26 · 字体与视觉性格
+
+- [字体选择](../cases/2026-09-26-editorial-typography.md#source)：按内容气质选择字形，主标题表达性格，信息层保持清楚。
+- [搭配假设](../references/typography/GUIDE.md)：字体与尺度、留白共同表达；用户偏好已明确，效果仍待实践。

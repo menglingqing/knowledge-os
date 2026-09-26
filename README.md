@@ -5,6 +5,7 @@
 - [AIGC 审美认知](docs/aigc-aesthetics/README.md)——自然美感、世界主导、概念减法与尺度关系；从图片品鉴沉淀可引用的创作认知。
 - [生图提示词工程](docs/image-prompt-engineering/README.md)——将选定的创作意图转为视觉生成执行，包含七层架构、迭代方法与案例。
 - [PPT 视觉设计](docs/ppt-design/README.md)——商业演示的视觉系统与案例。
+- [字体与排版参考](docs/aigc-aesthetics/references/typography/README.md)——40 种英文字体与字形风格、AI 提示词、搭配和网站使用指南。
 - [其他知识文档](docs/)——业务、产品与认知模型等主题。
 
 ## 应用开发
