@@ -45,3 +45,12 @@
 
 - [字体选择](../cases/2026-09-26-editorial-typography.md#source)：按内容气质选择字形，主标题表达性格，信息层保持清楚。
 - [搭配假设](../references/typography/GUIDE.md)：字体与尺度、留白共同表达；用户偏好已明确，效果仍待实践。
+
+## 2026-10-01 · 信号损失肖像
+
+- [主体故障](../methods/loss-of-signal-portraiture.md#recognizable-incomplete)：故障应进入人物结构，而非只覆盖在人像表面。
+- [方向语法](../methods/loss-of-signal-portraiture.md#vertical-horizontal)：纵向人物建立连续性，横向系统负责切断。
+- [损失梯度](../methods/loss-of-signal-portraiture.md#loss-gradient)：用故障区、转化区、肉身区表达过程，而非平均叠加。
+- [错误读取](../methods/loss-of-signal-portraiture.md#corruption-types)：删除、位移、重复、转化分别表达不同的信息错误。
+- [真实肉身](../methods/loss-of-signal-portraiture.md#human-reality)：真实皮肤与发丝使数字损坏产生真正的损失感。
+- [媒介复合](../methods/loss-of-signal-portraiture.md#analog-decay)：数字错误与模拟介质衰败叠加，比纯赛博故障更有物理感。
