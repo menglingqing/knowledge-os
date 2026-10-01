@@ -32,3 +32,10 @@
 空间建关系，视线推叙事，颜色赋意义，克制留余韵；以单变量对照检验环境人像技法。
 
 - [十条技法与 A/B 方案](../experiments/environmental-portrait-techniques.md)
+
+## 2026-10-01 · v1.9
+
+运动感先锁动力轴；主体与环境反向对冲；超现实结构用视觉证据而非命名。
+
+- [宇宙骑手案例](../cases/cosmic-rider-luminous-curtain/)
+- [动态场提示法](../experiments/dynamic-field-luminous-curtain.md)
