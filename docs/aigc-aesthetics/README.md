@@ -19,7 +19,7 @@
 
 - [建筑与场景：对称、透视与色彩系统](methods/symmetry-perspective-color.md)——对称控制秩序、透视控制方向、色彩控制注意力；包含四类组合效果与创作控制。
 
-- [品牌到 UI：人本研究型科技视觉系统](methods/brand-ui-visual-system.md)——从品牌语义到视觉对比、foundation tokens、组件语法与跨媒介 DNA；强调“学语法，不抄词汇”。
+- [品牌到 UI：人本研究型科技视觉系统](methods/brand-ui-visual-system.md)——从品牌语义到视觉对比、foundation tokens、组件语法与跨媒介 DNA；强调“学语法，不抄词汇”；附可读性修正、语义 token 与 Agent 调用约定。
 
 - [信号损失肖像：从 Glitch Effect 到 Data Corruption](methods/loss-of-signal-portraiture.md)——把故障从表面特效升级为人物自身的信息损坏，建立可辨认/不完整、损失梯度、错误复制与模拟介质衰败。\n- [视觉品鉴：从“好看”到可迁移判断](methods/visual-critique-framework.md)——从单一大势、识别锚点、关系、媒介与尺度层级提炼可复用判断。
 - [IP 视觉转译](methods/ip-visual-translation.md)——Character DNA、人格恒量、跨物种/跨媒介转译与身份保持。
@@ -36,7 +36,7 @@
 
 ## 案例与认知历史
 
-- [2026-10-05：Anthropic-style 品牌 / UI 视觉系统拆解](cases/2026-10-05-anthropic-style-brand-ui-system.md)——从参考板提炼理性结构 × 人的温度、语义色与跨媒介一致性，并记录产品级补全边界。
+- [2026-10-05：Anthropic-style 品牌 / UI 视觉系统拆解](cases/2026-10-05-anthropic-style-brand-ui-system.md)——从参考板提炼理性结构 × 人的温度、语义色与跨媒介一致性，并记录产品级补全边界；保存原图，补充官方资料比对与对比度实算。
 
 - [2026-09-26：40 种英文字体参考](cases/2026-09-26-editorial-typography.md)——记录用户希望后续设计主动参考多样字形的偏好；本次为材料整理，未进行生成验证。
 
@@ -60,4 +60,4 @@
 5. 生成实验需补充任务、输入、输出、单变量变化与评判结果。满足现有治理的必要条件后，提出晋升建议，由人类裁决；不因助手赞同或重复转述而晋升。
 6. 稳定文件路径与显式锚点用于跨文档引用。概念定义保留在原则／方法页，案例只说明应用；移动时更新所有引用。日期由 Git 管理，认知变化另记日志，每条核心经验不超过 50 字。
 
-版本：v0.9 · 2026-10-05
+版本：v0.10 · 2026-10-05

@@ -6,6 +6,7 @@
 - [生图提示词工程](docs/image-prompt-engineering/README.md)——将选定的创作意图转为视觉生成执行，包含七层架构、迭代方法与案例。
 - [PPT 视觉设计](docs/ppt-design/README.md)——商业演示的视觉系统与案例。
 - [字体与排版参考](docs/aigc-aesthetics/references/typography/README.md)——40 种英文字体与字形风格、AI 提示词、搭配和网站使用指南。
+- [品牌与 UI 视觉方法](docs/aigc-aesthetics/methods/brand-ui-visual-system.md)——暖中性色、信息层级与语义 token；含 Anthropic 风格参考板学习和可读性验证。
 - [其他知识文档](docs/)——业务、产品与认知模型等主题。
 
 ## 应用开发

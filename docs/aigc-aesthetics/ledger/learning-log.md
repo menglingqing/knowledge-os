@@ -59,6 +59,12 @@
 
 - [品牌语义](../methods/brand-ui-visual-system.md#semantic-chain)：先定义品牌语义，再翻译为视觉对比与设计令牌。
 - [理性×温度](../methods/brand-ui-visual-system.md#core-tension)：研究型科技感可由理性网格与温暖材质共同建立。
-- [强调色约束](../methods/brand-ui-visual-system.md#color-system)：中性底承载秩序，暖色只承担行动与注意力。
+- [强调色约束](../methods/brand-ui-visual-system.md#color-system)：中性底承载秩序，暖色按角色承担行动、注意力或品牌识别。
 - [跨媒介 DNA](../methods/brand-ui-visual-system.md#cross-medium)：统一来自视觉语法，不来自每个媒介复制同一版式。
-- [学语法不抄词汇](../cases/2026-10-05-anthropic-style-brand-ui-system.md)：保留关系逻辑，替换品牌专属颜色、字体与符号。
+- [学语法不抄词汇](../cases/2026-10-05-anthropic-style-brand-ui-system.md)：保留关系逻辑；色值按用途验证，品牌专属符号替换。
+
+### 同日复核：从参考色板到可用 UI
+
+- [来源区分](../cases/2026-10-05-anthropic-style-brand-ui-system.md#verified-reference)：参考图、公开品牌资料与产品规范要分别核对。
+- [色值校验](../cases/2026-10-05-anthropic-style-brand-ui-system.md#contrast-check)：图中标注与像素可不同，UI 使用实际配对验证。
+- [角色拆分](../methods/brand-ui-visual-system.md#implementation-baseline)：装饰强调色与行动色分工，克制不能靠文字过浅。
