@@ -54,3 +54,11 @@
 - [错误读取](../methods/loss-of-signal-portraiture.md#corruption-types)：删除、位移、重复、转化分别表达不同的信息错误。
 - [真实肉身](../methods/loss-of-signal-portraiture.md#human-reality)：真实皮肤与发丝使数字损坏产生真正的损失感。
 - [媒介复合](../methods/loss-of-signal-portraiture.md#analog-decay)：数字错误与模拟介质衰败叠加，比纯赛博故障更有物理感。
+
+## 2026-10-05 · 品牌 / UI 视觉系统
+
+- [品牌语义](../methods/brand-ui-visual-system.md#semantic-chain)：先定义品牌语义，再翻译为视觉对比与设计令牌。
+- [理性×温度](../methods/brand-ui-visual-system.md#core-tension)：研究型科技感可由理性网格与温暖材质共同建立。
+- [强调色约束](../methods/brand-ui-visual-system.md#color-system)：中性底承载秩序，暖色只承担行动与注意力。
+- [跨媒介 DNA](../methods/brand-ui-visual-system.md#cross-medium)：统一来自视觉语法，不来自每个媒介复制同一版式。
+- [学语法不抄词汇](../cases/2026-10-05-anthropic-style-brand-ui-system.md)：保留关系逻辑，替换品牌专属颜色、字体与符号。
