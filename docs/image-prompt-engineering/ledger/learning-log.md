@@ -39,3 +39,10 @@
 
 - [宇宙骑手案例](../cases/cosmic-rider-luminous-curtain/)
 - [动态场提示法](../experiments/dynamic-field-luminous-curtain.md)
+
+## 2026-10-13 · 七层架构 v2.0
+
+情绪归概念，主体不限人物；空间建关系，构图组织观看；新增机制待验证。
+
+- [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
+- [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)

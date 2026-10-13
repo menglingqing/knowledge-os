@@ -17,6 +17,8 @@
 
 ## 创作方法
 
+- [七层视觉生成架构 v2.0](methods/concept-driven-seven-layer-methodology.md)——概念驱动创作与品鉴、情绪调性、主体主次、层间关系与验证闭环；SS 级待验证方法论。
+
 - [建筑与场景：对称、透视与色彩系统](methods/symmetry-perspective-color.md)——对称控制秩序、透视控制方向、色彩控制注意力；包含四类组合效果与创作控制。
 
 - [品牌到 UI：人本研究型科技视觉系统](methods/brand-ui-visual-system.md)——从品牌语义到视觉对比、foundation tokens、组件语法与跨媒介 DNA；强调“学语法，不抄词汇”；附可读性修正、语义 token 与 Agent 调用约定。
