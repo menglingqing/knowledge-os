@@ -46,3 +46,9 @@
 
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
+
+## 2026-10-13 · v2.0 真实感强化
+
+真实感先查整体关系；不完美需有成因，物理与风格规则按媒介选用。
+
+- [因果控制、五项检查与街头两版示例](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md#12-真实感强化修订因果一致性驱动的视觉生成控制2026-10-13)

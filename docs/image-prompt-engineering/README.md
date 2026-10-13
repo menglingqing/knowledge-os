@@ -11,7 +11,7 @@
 
 ## 方法论
 
-- [七层视觉生成架构 v2.0](../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)——概念与情绪、主体主次、空间与观看方式、层间关系及约束；新增机制待验证。
+- [七层视觉生成架构 v2.0](../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)——概念与情绪、主体主次、跨层因果、视觉可信度、五项检查及街头人像两版示例；新增机制待验证。
 
 - [7 层架构拆解法](methodology/seven-layer-architecture.md)——从“元素清单”到“关系网络”的结构化拆解
 - [迭代手册：诊断、验收与预算](methodology/iteration-playbook.md)——只改一个变量的诊断法、验收分级、文字预算审计
@@ -19,7 +19,7 @@
 
 ## 实验
 
-- [v2.0 技法库与案例验证计划](experiments/seven-layer-v2-techniques-and-validation.md)——风格／光效／情绪／真实感、六条假设与独立案例方案；尚未实施。
+- [v2.0 技法库与案例验证计划](experiments/seven-layer-v2-techniques-and-validation.md)——风格／光效／情绪／真实感、九条假设、真实感 A/B 与独立案例方案；尚未实施。
 
 - [环境人像视觉生成技法](experiments/environmental-portrait-techniques.md)——东方玄幻构图提炼的十条技法、七层对应、四组 A/B 方案与跨题材调用；单案例实践归纳，待对照验证。
 
