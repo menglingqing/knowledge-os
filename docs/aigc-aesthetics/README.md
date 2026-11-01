@@ -38,6 +38,9 @@
 
 ## 案例与认知历史
 
+- [2026-11-01：夜海闪光写真｜CCD观感、动态模糊与非摆拍动作](cases/2026-11-01-night-seaside-ccd-flash-motion-portrait-series.md)——五张夜海人像、原始短提示词；闪光、海风、人物行为与摄影者参与的跨层因果案例。
+
+
 - [2026-11-01：夏日雏菊写真系列｜短提示词与统一视觉 DNA](cases/2026-11-01-summer-daisy-portrait-short-prompt-series.md)——三张夏日人像的动作/景别变化、统一发饰服装和光色，及短提示词与身份锁定的实验边界。
 
 
