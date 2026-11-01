@@ -47,6 +47,11 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-01 · R-002 动物／观察者视角（研究储备）
+
+- [机位因果](../experiments/animal-observer-viewpoint-anchoring.md)：观察者位置与栖息点提供机位、前景和人物回应的共同线索。
+- [证据边界](../../aigc-aesthetics/cases/2026-11-01-observer-viewpoint-portrait-cases.md)：用户正向反馈不等于动物语义的独立因果验证。
+
 ## 2026-10-13 · v2.0 真实感强化
 
 真实感先查整体关系；不完美需有成因，物理与风格规则按媒介选用。
