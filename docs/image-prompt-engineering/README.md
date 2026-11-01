@@ -19,6 +19,8 @@
 
 ## 实验
 
+- [R-002：动物／观察者视角锚定法](experiments/animal-observer-viewpoint-anchoring.md)——观察者身份与栖息点间接控制机位、视距和前景的候选技法；附蝴蝶、蠕虫、乌鸦人物案例与 A/B/C 验证设计。
+
 - [v2.0 技法库与案例验证计划](experiments/seven-layer-v2-techniques-and-validation.md)——风格／光效／情绪／真实感、九条假设、真实感 A/B 与独立案例方案；尚未实施。
 
 - [环境人像视觉生成技法](experiments/environmental-portrait-techniques.md)——东方玄幻构图提炼的十条技法、七层对应、四组 A/B 方案与跨题材调用；单案例实践归纳，待对照验证。
