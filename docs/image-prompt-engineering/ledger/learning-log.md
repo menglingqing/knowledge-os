@@ -47,7 +47,15 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-02 · 夏日果园绿色系人像（成功参考候选）
+
+贴镜头前景标定机位；树冠硬光与情境表情共同营造真实在场感。
+
+- [六张参考图的可见证据和待验证边界](../../aigc-aesthetics/cases/2026-11-02-summer-orchard-green-portrait-series.md)
+
 ## 2026-11-02 · 《午夜失焦》自拍 V1 成图复核
+
+- [单图实测](../../aigc-aesthetics/cases/2026-11-02-midnight-out-of-focus-selfie-v1-review.md)：前伸手臂有效标定自拍位置；自拍距离与仰视高度须分别验收，避免双前景抢焦。
 
 ## 2026-11-02 · 私密卧室人像 V1–V4（成功案例迁移）
 
@@ -56,8 +64,6 @@
 - [成图实践与判断边界](../../aigc-aesthetics/cases/2026-11-02-bedroom-intimate-portrait-v1-v4-series.md)
 - [「写真」风格先验与辉光验证计划](../experiments/bedroom-portrait-optical-halo-and-style-prior.md)
 
-
-- [单图实测](../../aigc-aesthetics/cases/2026-11-02-midnight-out-of-focus-selfie-v1-review.md)：前伸手臂有效标定自拍位置；自拍距离与仰视高度须分别验收，避免双前景抢焦。
 
 ## 2026-11-02 · 动作目的驱动的造型设计（认知备案）
 
