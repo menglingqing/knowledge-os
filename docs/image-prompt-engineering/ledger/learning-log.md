@@ -47,6 +47,10 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-02 · 动作目的驱动的造型设计（认知备案）
+
+- [审美边界](../../aigc-aesthetics/cases/2026-11-02-purpose-driven-pose-design.md)：夸张姿态不必生活化；先明确动作目的，再检验形体与视觉关系。
+
 ## 2026-11-02 · R-002 首轮古风组合实践
 
 - [正向反馈](../../aigc-aesthetics/cases/2026-11-02-classical-portrait-animal-viewpoint-experiment.md)：三种视角融合人物动作、情绪与前景后获得用户好评；尚不能单独归因。
