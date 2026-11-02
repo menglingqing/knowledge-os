@@ -13,3 +13,5 @@
 - [environmental-portrait-techniques.md](environmental-portrait-techniques.md)——环境人像十条实践技法、七层对应与四组待实施 A/B 对照。
 
 - [seven-layer-v2-techniques-and-validation.md](seven-layer-v2-techniques-and-validation.md)——七层 v2.0 跨层技法库、待验证假设与独立案例计划。
+
+- [bedroom-portrait-optical-halo-and-style-prior.md](bedroom-portrait-optical-halo-and-style-prior.md)——光学辉光与风格词对照实验。
