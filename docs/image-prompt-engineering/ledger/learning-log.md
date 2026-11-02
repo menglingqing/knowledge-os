@@ -49,6 +49,14 @@
 
 ## 2026-11-02 · 《午夜失焦》自拍 V1 成图复核
 
+## 2026-11-02 · 私密卧室人像 V1–V4（成功案例迁移）
+
+成功品主导学习；朦胧来自局部光学辉光，不等于磨皮；修复不应牺牲人物魅力。
+
+- [成图实践与判断边界](../../aigc-aesthetics/cases/2026-11-02-bedroom-intimate-portrait-v1-v4-series.md)
+- [「写真」风格先验与辉光验证计划](../experiments/bedroom-portrait-optical-halo-and-style-prior.md)
+
+
 - [单图实测](../../aigc-aesthetics/cases/2026-11-02-midnight-out-of-focus-selfie-v1-review.md)：前伸手臂有效标定自拍位置；自拍距离与仰视高度须分别验收，避免双前景抢焦。
 
 ## 2026-11-02 · 动作目的驱动的造型设计（认知备案）
