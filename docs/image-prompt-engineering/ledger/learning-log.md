@@ -47,6 +47,10 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-02 · 《午夜失焦》自拍 V1 成图复核
+
+- [单图实测](../../aigc-aesthetics/cases/2026-11-02-midnight-out-of-focus-selfie-v1-review.md)：前伸手臂有效标定自拍位置；自拍距离与仰视高度须分别验收，避免双前景抢焦。
+
 ## 2026-11-02 · 动作目的驱动的造型设计（认知备案）
 
 - [审美边界](../../aigc-aesthetics/cases/2026-11-02-purpose-driven-pose-design.md)：夸张姿态不必生活化；先明确动作目的，再检验形体与视觉关系。
