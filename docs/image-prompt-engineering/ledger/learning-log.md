@@ -47,6 +47,10 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-02 · R-002 首轮古风组合实践
+
+- [正向反馈](../../aigc-aesthetics/cases/2026-11-02-classical-portrait-animal-viewpoint-experiment.md)：三种视角融合人物动作、情绪与前景后获得用户好评；尚不能单独归因。
+
 ## 2026-11-01 · R-002 动物／观察者视角（研究储备）
 
 - [机位因果](../experiments/animal-observer-viewpoint-anchoring.md)：观察者位置与栖息点提供机位、前景和人物回应的共同线索。
