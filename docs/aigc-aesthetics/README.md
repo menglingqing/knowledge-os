@@ -38,6 +38,8 @@
 
 ## 案例与认知历史
 
+- [2026-11-02：《眉间朱砂》三种观察者视角组合实践](cases/2026-11-02-classical-portrait-animal-viewpoint-experiment.md)——蝴蝶花间、麻雀檐上、猫视角回廊；三组生成获用户总体正向反馈，尚待图片复核与独立对照。
+
 - [2026-11-01：夜海闪光写真｜CCD观感、动态模糊与非摆拍动作](cases/2026-11-01-night-seaside-ccd-flash-motion-portrait-series.md)——五张夜海人像、原始短提示词；闪光、海风、人物行为与摄影者参与的跨层因果案例。
 
 
