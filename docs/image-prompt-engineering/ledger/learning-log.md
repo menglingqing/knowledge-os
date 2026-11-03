@@ -47,6 +47,12 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-03 · 自我镜像海报《镜海·逆命》V1 概念储备
+
+同脸不同命运；上压下承与手臂框景锁定相认，元素场服务人物关系。**概念获认可，成图待验证。**
+
+- [参考四图、完整古文叙事提示词与验收指标](../../aigc-aesthetics/cases/2026-11-03-self-mirror-anime-poster-mirror-sea-v1.md)
+
 ## 2026-11-03 · 《绯色旧梦》V1–V7 未完成复现结案
 
 优化先保护原作的有效复杂性与观看关系，不能用精致稳定替代戏剧张力。
