@@ -49,6 +49,14 @@
 
 ## 2026-11-03 · 复古欧式轻纱人像 V1–V2
 
+## 2026-11-03 · 《绯色旧梦》V1–V7 未完成复现结案
+
+优化先保护原作的有效复杂性与观看关系，不能用精致稳定替代戏剧张力。
+
+- [原始提示词、V1–V7 实验与停止边界](../../aigc-aesthetics/cases/2026-11-03-vintage-oriental-crimson-portrait-v1-v7-closure.md)
+
+
+
 先稳定身体与衣料承托，再用窗光、透光纱层和暗部经营氛围。
 
 - [原始参考与 V1–V2 实测记录](../../aigc-aesthetics/cases/2026-11-03-vintage-european-interior-sheer-organza-portrait-v1-v2.md)
