@@ -47,6 +47,12 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-03 · 复古欧式轻纱人像 V1–V2
+
+先稳定身体与衣料承托，再用窗光、透光纱层和暗部经营氛围。
+
+- [原始参考与 V1–V2 实测记录](../../aigc-aesthetics/cases/2026-11-03-vintage-european-interior-sheer-organza-portrait-v1-v2.md)
+
 ## 2026-11-02 · 夏日果园绿色系人像（成功参考候选）
 
 贴镜头前景标定机位；树冠硬光与情境表情共同营造真实在场感。
