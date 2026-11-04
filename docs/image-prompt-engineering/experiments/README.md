@@ -1,5 +1,7 @@
 # Experiments
 
+- [2026-11-04 概念先导 × 成图筛选 × 按需七段式精修](2026-11-04-concept-first-two-stage-workflow.md)——两级输出约定、实验反馈与验证边界。
+
 未验证的观察与假设。每条一个文件，frontmatter 标 `status: experimental`。
 
 晋升规则见 [../governance.md](../governance.md)。
