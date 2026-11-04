@@ -47,6 +47,12 @@
 - [架构升级](../../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)
 - [技法与验证计划](../experiments/seven-layer-v2-techniques-and-validation.md)
 
+## 2026-11-04 · 概念先导与按需精修工作流
+
+先以精炼叙事＋诗文生图，选成功图后再按缺陷精修；不预设文字配额。
+
+- [《佛眼·归枷》《银色神谕》等实践与证据边界](../experiments/2026-11-04-concept-first-two-stage-workflow.md)
+
 ## 2026-11-03 · 自我镜像海报《镜海·逆命》V1 概念储备
 
 同脸不同命运；上压下承与手臂框景锁定相认，元素场服务人物关系。**概念获认可，成图待验证。**
