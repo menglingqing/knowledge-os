@@ -19,6 +19,8 @@
 
 ## 实验
 
+- [2026-11-04：概念先导 → 成图品鉴 → 七段式按需精修](experiments/2026-11-04-concept-first-two-stage-workflow.md)——综合《青笼听雨》《隔窗补月》《银色神谕》《佛眼·归枷》等正反实验；区分用户确认的创作流程与待验证的模型因果。
+
 - [R-002：动物／观察者视角锚定法](experiments/animal-observer-viewpoint-anchoring.md)——观察者身份与栖息点间接控制机位、视距和前景的候选技法；附蝴蝶、蠕虫、乌鸦人物案例与 A/B/C 验证设计。
 
 - [v2.0 技法库与案例验证计划](experiments/seven-layer-v2-techniques-and-validation.md)——风格／光效／情绪／真实感、九条假设、真实感 A/B 与独立案例方案；尚未实施。
