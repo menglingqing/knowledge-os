@@ -68,3 +68,10 @@
 - [来源区分](../cases/2026-10-05-anthropic-style-brand-ui-system.md#verified-reference)：参考图、公开品牌资料与产品规范要分别核对。
 - [色值校验](../cases/2026-10-05-anthropic-style-brand-ui-system.md#contrast-check)：图中标注与像素可不同，UI 使用实际配对验证。
 - [角色拆分](../methods/brand-ui-visual-system.md#implementation-baseline)：装饰强调色与行动色分工，克制不能靠文字过浅。
+
+## 2026-11-08 · 北京立冬：传统文化海报系列 v0.1
+
+- [文化转译](../methods/traditional-cultural-poster-series-system.md)：东方韵味不靠符号堆砌；从生活叙事转化为图文关系。
+- [字形与材质](../cases/2026-11-08-beijing-lidong-poster-typography-series.md)：字体骨架不同于印刷磨损，先独立设计字形再叠材质。
+- [系列边界](../methods/traditional-cultural-poster-series-system.md)：视觉语法可复用，节气与城市叙事不可只换皮。
+- [验证状态](../cases/2026-11-08-beijing-lidong-poster-typography-series.md)：同项目多张图不等于独立案例，方法仍为 experimental。
