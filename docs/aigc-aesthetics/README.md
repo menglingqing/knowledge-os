@@ -26,6 +26,7 @@
 - [信号损失肖像：从 Glitch Effect 到 Data Corruption](methods/loss-of-signal-portraiture.md)——把故障从表面特效升级为人物自身的信息损坏，建立可辨认/不完整、损失梯度、错误复制与模拟介质衰败。\n- [视觉品鉴：从“好看”到可迁移判断](methods/visual-critique-framework.md)——从单一大势、识别锚点、关系、媒介与尺度层级提炼可复用判断。
 - [IP 视觉转译](methods/ip-visual-translation.md)——Character DNA、人格恒量、跨物种/跨媒介转译与身份保持。
 - [海报视觉系统](methods/poster-system-design.md)——系列视觉 DNA、尺度层级、视觉重量、跨风格分工与可替换模板。
+- [传统文化海报系列设计系统 v0.1](methods/traditional-cultural-poster-series-system.md)——从文化命题、生活叙事与当代视觉转译，建立系列 DNA、字体字形/材质分离实验和迁移验证（experimental）。
 - [概念、克制与减法](methods/concept-and-subtraction.md)——概念熵、一个核心创意、元素少但关系强；包含删减判断与反例。
 - [如何转化为创作控制](methods/creative-control.md)——从一句命题到可见证据、可调变量和对照复盘；在执行时引用七层架构。
 - [AI 视频真实感](methods/video-realism.md)——从摄影机存在、人物关系、光源因果，到行为不完美、时间结构与环境反馈。
@@ -37,6 +38,8 @@
 - [字体搭配与创作使用指南](references/typography/GUIDE.md)——标题、信息与手写分工，五组练习组合及图片、网站的使用边界。
 
 ## 案例与认知历史
+
+- [2026-11-08：《北京·立冬》海报系列设计与字体对照](cases/2026-11-08-beijing-lidong-poster-typography-series.md)——9 幅初创与 3 幅字体专项对照；排版基本成立，但字形结构差异不足，形成「东方神韵 × 当代语言」长期研究命题。
 
 - [2026-11-03：动漫自我镜像海报《镜海·逆命》V1（概念成熟／成图待验证）](cases/2026-11-03-self-mirror-anime-poster-mirror-sea-v1.md)——四幅参考品鉴：上压下承、面孔与手臂闭环、元素场动势；保留 L1 古文锚与完整原创提示词，后续核验身份／情绪／构图。
 
