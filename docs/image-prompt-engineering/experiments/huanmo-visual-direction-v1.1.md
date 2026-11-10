@@ -54,6 +54,8 @@ evidence: []
 
 ## 7. 生产级提示结构
 
+范围提示（2026-11-10）：以下七项是内部编排参考，不是另一套最终交付格式。普通生图按[概念探索 v0.2](https://github.com/menglingqing/aigc-framework/blob/main/skills/concept-exploration-prompt/SKILL.md)，完整执行按[七段式执行 v1.3](https://github.com/menglingqing/aigc-framework/blob/main/workflow/prompt-output.md)；[人物三视图](https://github.com/menglingqing/aigc-framework/blob/main/skills/character-three-view/SKILL.md)等专项资产按对应 Skill，不因本节扩充为角色设定资料板。本文历史方法与 experimental 状态不变。
+
 仅在明确创作任务中启用：
 
 1. 画幅与唯一观看机制；

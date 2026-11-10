@@ -9,6 +9,15 @@
 - [AIGC 审美认知](../aigc-aesthetics/README.md)——自然美感、世界主导、克制与减法、尺度与存在；独立组织审美原则、概念方法与品鉴案例。
 - [如何转化为创作控制](../aigc-aesthetics/methods/creative-control.md)——选定核心命题后，再进入本模块的执行方法。七层架构仅用于视觉生成执行，不作为所有审美认知的分类框架。
 
+## 现行执行规范入口
+
+2026-11-10 核查：执行时以 [aigc-framework 的现行源文件](https://github.com/menglingqing/aigc-framework)为准；本库保留方法讨论、历史实验与证据，不维护第二套默认输出格式。以下版本号是本次核查记录，后续版本沿原路径更新。
+
+- 角色资产：[人物三视图 Skill v0.1.1](https://github.com/menglingqing/aigc-framework/blob/main/skills/character-three-view/SKILL.md)。
+- 生图理解与交付：[七层视觉架构 v2.0](https://github.com/menglingqing/aigc-framework/blob/main/framework/seven-layers.md)用于创作理解与检查；普通生图默认使用[概念探索 v0.2](https://github.com/menglingqing/aigc-framework/blob/main/skills/concept-exploration-prompt/SKILL.md)，完整执行与按需精修使用[七段式执行 v1.3](https://github.com/menglingqing/aigc-framework/blob/main/workflow/prompt-output.md)。
+- 视频交付：[视频提示词格式 v0.3](https://github.com/menglingqing/aigc-framework/blob/main/skills/video-prompt-format/SKILL.md)，保持既有三章节及分镜字段。
+- 专业内容：[动作武术指导 v0.1.1](https://github.com/menglingqing/aigc-framework/blob/main/skills/action-martial-director/SKILL.md)设计攻防、镜头与动效，完整视频提示词仍由视频格式 Skill 组织。
+
 ## 方法论
 
 - [七层视觉生成架构 v2.0](../aigc-aesthetics/methods/concept-driven-seven-layer-methodology.md)——概念与情绪、主体主次、跨层因果、视觉可信度、五项检查及街头人像两版示例；新增机制待验证。

@@ -8,6 +8,8 @@ evidence:
 
 把一个生图需求从"元素清单"拆解为"关系网络"的七层框架。源自 64卦能量天门案例的六轮迭代。
 
+范围提示（2026-11-10）：下文保留 64卦案例形成的历史拆解与使用记录；其中 L3“空间层”、逐层填写及文字预算启发式，不作为所有任务的强制交付格式。现行七层职责以 [aigc-framework 七层视觉架构 v2.0](https://github.com/menglingqing/aigc-framework/blob/main/framework/seven-layers.md)为准，L3 为环境（含空间关系）；完整生图执行以[七段式执行 v1.3](https://github.com/menglingqing/aigc-framework/blob/main/workflow/prompt-output.md)为准。历史案例、原有证据与 validated 标记的适用范围保持不变。
+
 ## 七层定义
 
 | 层级 | 核心要素 | 关键原则 |
