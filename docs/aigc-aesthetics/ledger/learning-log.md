@@ -75,3 +75,10 @@
 - [字形与材质](../cases/2026-11-08-beijing-lidong-poster-typography-series.md)：字体骨架不同于印刷磨损，先独立设计字形再叠材质。
 - [系列边界](../methods/traditional-cultural-poster-series-system.md)：视觉语法可复用，节气与城市叙事不可只换皮。
 - [验证状态](../cases/2026-11-08-beijing-lidong-poster-typography-series.md)：同项目多张图不等于独立案例，方法仍为 experimental。
+
+
+## 2026-11-11 · 双联海报摄影/排版分工
+
+- [分域验收](../methods/diptych-art-poster-two-stage.md)：摄影真实感先通过，字形排版才有可被信任的母图。
+- [审美与物理分开](../cases/2026-11-11-diptych-snowboard-physical-review.md)：滑雪三版排版被认可，不代表雪靴、固定器与单板的关系正确。
+- [设计增量](../methods/diptych-art-poster-two-stage.md)：下联用字形和构图重新解释摄影，不用特效掩盖错误。

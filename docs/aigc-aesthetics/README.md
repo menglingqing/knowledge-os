@@ -26,6 +26,7 @@
 - [信号损失肖像：从 Glitch Effect 到 Data Corruption](methods/loss-of-signal-portraiture.md)——把故障从表面特效升级为人物自身的信息损坏，建立可辨认/不完整、损失梯度、错误复制与模拟介质衰败。\n- [视觉品鉴：从“好看”到可迁移判断](methods/visual-critique-framework.md)——从单一大势、识别锚点、关系、媒介与尺度层级提炼可复用判断。
 - [IP 视觉转译](methods/ip-visual-translation.md)——Character DNA、人格恒量、跨物种/跨媒介转译与身份保持。
 - [海报视觉系统](methods/poster-system-design.md)——系列视觉 DNA、尺度层级、视觉重量、跨风格分工与可替换模板。
+- [双联艺术海报：摄影与排版双阶段协作](methods/diptych-art-poster-two-stage.md)——先验收无字摄影母图，再做同源字体蒙版、破框和排版设计；专项执行规范保存在 aigc-framework。
 - [传统文化海报系列设计系统 v0.1](methods/traditional-cultural-poster-series-system.md)——从文化命题、生活叙事与当代视觉转译，建立系列 DNA、字体字形/材质分离实验和迁移验证（experimental）。
 - [概念、克制与减法](methods/concept-and-subtraction.md)——概念熵、一个核心创意、元素少但关系强；包含删减判断与反例。
 - [如何转化为创作控制](methods/creative-control.md)——从一句命题到可见证据、可调变量和对照复盘；在执行时引用七层架构。
@@ -38,6 +39,8 @@
 - [字体搭配与创作使用指南](references/typography/GUIDE.md)——标题、信息与手写分工，五组练习组合及图片、网站的使用边界。
 
 ## 案例与认知历史
+
+- [2026-11-11：滑雪双联海报摄影结构纠错](cases/2026-11-11-diptych-snowboard-physical-review.md)——三版先获排版审美认可，但第一、第三版板脚关系不成立，后续部分修改反复失败；形成摄影/排版分域验收的认知修正。
 
 - [2026-11-08：《北京·立冬》海报系列设计与字体对照](cases/2026-11-08-beijing-lidong-poster-typography-series.md)——9 幅初创与 3 幅字体专项对照；排版基本成立，但字形结构差异不足，形成「东方神韵 × 当代语言」长期研究命题。
 

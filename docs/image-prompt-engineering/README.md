@@ -24,6 +24,8 @@
 
 - [7 层架构拆解法](methodology/seven-layer-architecture.md)——从“元素清单”到“关系网络”的结构化拆解
 - [迭代手册：诊断、验收与预算](methodology/iteration-playbook.md)——只改一个变量的诊断法、验收分级、文字预算审计
+- [摄影真实结构检查（现行执行技法）](https://github.com/menglingqing/aigc-framework/blob/main/techniques/photographic-structural-integrity.md)——摄影母图中主体、关节、器械连接、受力、环境和成像真实性；属于现有七层/概念探索/七段式的协作技法，不另立默认 Skill。
+- [双联海报文字排版 v1.2（现行专项）](https://github.com/menglingqing/aigc-framework/blob/main/skills/photo-type-diptych/SKILL.md)——只接收通过摄影门禁的同源无字摄影；字体、蒙版、前后遮挡与版式由该专项负责。
 - [模型适配](methodology/model-adaptation.md)——中文模型 vs MJ/SDXL、否定词归位、画幅、权重语法
 
 ## 实验
